@@ -12,7 +12,7 @@
 
 Im a Junior Sofware Egineer at Zone 01 Kisumu. I have have knowledge and experience in the following languages HTML, CSS, GO,PYTHON, JAVASCRIPT AND  SPRINGBOOT JAVA .
 
-🔭 &nbsp;I'm currently working on **LMS project on github that is currently**  
+🔭 &nbsp;I'm currently working on **LejaSmart project on github that lets businesses track finances nad updates through a digitalised platform that calculates the annual profit and loss and predicted outcomes**  
 🌱 &nbsp;I'm currently learning **React and Spring boot java**  
 👯 &nbsp;I'm looking to collaborate on **Open-source projects**
 
